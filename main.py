@@ -11,7 +11,7 @@ from tensorflow.keras.layers import Conv2D, MaxPooling2D, Flatten, Dense
 plot_predictions = False
 
 data_path = 'data'
-categories = ['a', 'l', 'p', 'o', 'k', 's']
+categories = ['a', 'b', 'l', 'p', 'o', 'k', 's']
 
 data = []
 labels = []
